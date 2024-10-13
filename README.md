@@ -114,4 +114,3 @@ Top used language GitHub last commit
 ⬆ Back to Top
 🌏 Meta
 
-bsoubaig - bsoubaig@student.42nice.fr
